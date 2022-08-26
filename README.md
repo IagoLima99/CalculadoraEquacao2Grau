@@ -1,0 +1,1 @@
+# CalculadoraEquacao2Grau
